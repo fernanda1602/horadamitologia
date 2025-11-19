@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    border-bottom: solid 2px aquamarine;
+    border-bottom: solid 2px rgb(36, 161, 161);
     padding: 20px;
     font-size: 32px;
     color:rgba(36, 161, 161);
@@ -53,5 +53,5 @@ p {
     border: 1px solid rgb(32, 32, 32);
 }
 .categoria h2{
-    color: aquamarine;
+    color: hsl(160, 100%, 75%);
 }
