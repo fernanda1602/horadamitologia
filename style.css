@@ -1,5 +1,5 @@
 body {
-    color: aquamarine;
+   color: rgb(36, 161, 161); c
     background: black;
     margin-bottom: 100px;
 }
@@ -8,7 +8,7 @@ header {
     border-bottom: solid 2px aquamarine;
     padding: 20px;
     font-size: 32px;
-    color: aquamarine;
+    color:rgba(36, 161, 161);
 }
 
 .chamada {
